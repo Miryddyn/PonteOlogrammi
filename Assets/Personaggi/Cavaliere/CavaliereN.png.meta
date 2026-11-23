@@ -1,0 +1,2431 @@
+fileFormatVersion: 2
+guid: 11205f8eb725f814d9b1c3d7c471b524
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9187957008317724068
+    second: CavaliereN_0
+  - first:
+      213: 381927513587935080
+    second: CavaliereN_1
+  - first:
+      213: -7639583635484837952
+    second: CavaliereN_2
+  - first:
+      213: 5740923022293613143
+    second: CavaliereN_3
+  - first:
+      213: 7552864763038384945
+    second: CavaliereN_4
+  - first:
+      213: 3922804434327615512
+    second: CavaliereN_5
+  - first:
+      213: 5376731298427963127
+    second: CavaliereN_6
+  - first:
+      213: -7172763400962589659
+    second: CavaliereN_7
+  - first:
+      213: -3781728404460390659
+    second: CavaliereN_8
+  - first:
+      213: 1592407104948376293
+    second: CavaliereN_9
+  - first:
+      213: -6314700622067521583
+    second: CavaliereN_10
+  - first:
+      213: -6933606367418389725
+    second: CavaliereN_11
+  - first:
+      213: -2287913261070956055
+    second: CavaliereN_12
+  - first:
+      213: 998963998712216055
+    second: CavaliereN_13
+  - first:
+      213: 7105157501593188597
+    second: CavaliereN_14
+  - first:
+      213: -4009536330828339883
+    second: CavaliereN_15
+  - first:
+      213: -3037540187467308500
+    second: CavaliereN_16
+  - first:
+      213: -4747555237692201817
+    second: CavaliereN_17
+  - first:
+      213: 588228901837849767
+    second: CavaliereN_18
+  - first:
+      213: 298832707708794044
+    second: CavaliereN_19
+  - first:
+      213: -7784599469664777430
+    second: CavaliereN_20
+  - first:
+      213: -6050750856176470075
+    second: CavaliereN_21
+  - first:
+      213: -5691026154347065340
+    second: CavaliereN_22
+  - first:
+      213: 7890292162309612034
+    second: CavaliereN_23
+  - first:
+      213: -3385055431438701719
+    second: CavaliereN_24
+  - first:
+      213: 1065212088895539093
+    second: CavaliereN_25
+  - first:
+      213: -357162462553619756
+    second: CavaliereN_26
+  - first:
+      213: 8022232538220415552
+    second: CavaliereN_27
+  - first:
+      213: 5425042898701736882
+    second: CavaliereN_28
+  - first:
+      213: -564657024026376328
+    second: CavaliereN_29
+  - first:
+      213: 3151796231799386543
+    second: CavaliereN_30
+  - first:
+      213: -1994288644453985032
+    second: CavaliereN_31
+  - first:
+      213: 6254982638113187717
+    second: CavaliereN_32
+  - first:
+      213: -8422333110366191431
+    second: CavaliereN_33
+  - first:
+      213: 7477689053472632162
+    second: CavaliereN_34
+  - first:
+      213: -6109814542219525790
+    second: CavaliereN_35
+  - first:
+      213: -8271371118601326887
+    second: CavaliereN_36
+  - first:
+      213: 5938384042449583213
+    second: CavaliereN_37
+  - first:
+      213: -4901316320602884578
+    second: CavaliereN_38
+  - first:
+      213: 5001464162960139091
+    second: CavaliereN_39
+  - first:
+      213: -6923369058201130069
+    second: CavaliereN_40
+  - first:
+      213: 1038029348482384757
+    second: CavaliereN_41
+  - first:
+      213: 4830130018466776111
+    second: CavaliereN_42
+  - first:
+      213: -8523477207873393746
+    second: CavaliereN_43
+  - first:
+      213: -5372701355853337477
+    second: CavaliereN_44
+  - first:
+      213: 9172974867581229948
+    second: CavaliereN_45
+  - first:
+      213: 7810149188215897699
+    second: CavaliereN_46
+  - first:
+      213: 4122454254957915801
+    second: CavaliereN_47
+  - first:
+      213: -1396133166127386092
+    second: CavaliereN_48
+  - first:
+      213: -8612116353663465189
+    second: CavaliereN_49
+  - first:
+      213: -4370780147057208350
+    second: CavaliereN_50
+  - first:
+      213: -5378792400840978238
+    second: CavaliereN_51
+  - first:
+      213: -2422413451844970775
+    second: CavaliereN_52
+  - first:
+      213: -6354475856244436763
+    second: CavaliereN_53
+  - first:
+      213: -912402062644861816
+    second: CavaliereN_54
+  - first:
+      213: 2259343972066407342
+    second: CavaliereN_55
+  - first:
+      213: -4253869207097661505
+    second: CavaliereN_56
+  - first:
+      213: -2365938727348903368
+    second: CavaliereN_57
+  - first:
+      213: -5128560101603651935
+    second: CavaliereN_58
+  - first:
+      213: 8366182008250422522
+    second: CavaliereN_59
+  - first:
+      213: -6979306057958587119
+    second: CavaliereN_60
+  - first:
+      213: 1353137407787824989
+    second: CavaliereN_61
+  - first:
+      213: -3175742529663970838
+    second: CavaliereN_62
+  - first:
+      213: 1906746071993655377
+    second: CavaliereN_63
+  - first:
+      213: -1519971441504244956
+    second: CavaliereN_64
+  - first:
+      213: -7667397865205646306
+    second: CavaliereN_65
+  - first:
+      213: -6812047558372607696
+    second: CavaliereN_66
+  - first:
+      213: 8519867671624401355
+    second: CavaliereN_67
+  - first:
+      213: 1828251057245690340
+    second: CavaliereN_68
+  - first:
+      213: -6949409496980004474
+    second: CavaliereN_69
+  - first:
+      213: -5547582238268964187
+    second: CavaliereN_70
+  - first:
+      213: 3766462553726262124
+    second: CavaliereN_71
+  - first:
+      213: 3683848446865006618
+    second: CavaliereN_72
+  - first:
+      213: -1197105576245629927
+    second: CavaliereN_73
+  - first:
+      213: -5061748166185588968
+    second: CavaliereN_74
+  - first:
+      213: -2548478742934525321
+    second: CavaliereN_75
+  - first:
+      213: -5100246078250486705
+    second: CavaliereN_76
+  - first:
+      213: -4752998553629617859
+    second: CavaliereN_77
+  - first:
+      213: 3599059807381965621
+    second: CavaliereN_78
+  - first:
+      213: -2756156486413234530
+    second: CavaliereN_79
+  - first:
+      213: -5253590213785320506
+    second: CavaliereN_80
+  - first:
+      213: 839149188549670149
+    second: CavaliereN_81
+  - first:
+      213: -1919499161977154028
+    second: CavaliereN_82
+  - first:
+      213: -2170829656848420572
+    second: CavaliereN_83
+  - first:
+      213: 1125370626256162188
+    second: CavaliereN_84
+  - first:
+      213: -7214012025755912649
+    second: CavaliereN_85
+  - first:
+      213: -8142492694500832586
+    second: CavaliereN_86
+  - first:
+      213: -2473268100490370741
+    second: CavaliereN_87
+  - first:
+      213: 8331749233088506966
+    second: CavaliereN_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CavaliereN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 489
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a49a3e7c1dd7080800000000000000
+      internalID: -9187957008317724068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 719
+        width: 147
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8676b51dc01ec4500800000000000000
+      internalID: 381927513587935080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 909
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7f907e82fbaf590800000000000000
+      internalID: -7639583635484837952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 503
+        width: 419
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a3ca2721bdbaf40800000000000000
+      internalID: 5740923022293613143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_4
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 15
+        width: 573
+        height: 985
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133c7753c7a21d860800000000000000
+      internalID: 7552864763038384945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_5
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 905
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818bc6f59d9907630800000000000000
+      internalID: 3922804434327615512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_6
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 901
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f60687f0acfd9a40800000000000000
+      internalID: 5376731298427963127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_7
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 879
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb3b390b9357c90800000000000000
+      internalID: -7172763400962589659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 757
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df632277d0a948bc0800000000000000
+      internalID: -3781728404460390659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 775
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2914433dd591610800000000000000
+      internalID: 1592407104948376293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 757
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72abead3dad58a0800000000000000
+      internalID: -6314700622067521583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 717
+        width: 51
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32be3a1aeb1e6cf90800000000000000
+      internalID: -6933606367418389725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 767
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9c5fcc203bf30e0800000000000000
+      internalID: -2287913261070956055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 673
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f935aec6780ddd00800000000000000
+      internalID: 998963998712216055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 631
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8f9ab5a179a9260800000000000000
+      internalID: 7105157501593188597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_15
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 677
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55524f653f34b58c0800000000000000
+      internalID: -4009536330828339883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_16
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 623
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22a9070b4d78d5d0800000000000000
+      internalID: -3037540187467308500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 663
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4afc93aab4d1eb0800000000000000
+      internalID: -4747555237692201817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 641
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4c9a4d11fc92800800000000000000
+      internalID: 588228901837849767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_19
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 615
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4304ea3caa52400800000000000000
+      internalID: 298832707708794044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_20
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 654
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bcfe3e60c87f390800000000000000
+      internalID: -7784599469664777430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 565
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7f531972a670ca0800000000000000
+      internalID: -6050750856176470075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 621
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4009fae6dd96501b0800000000000000
+      internalID: -5691026154347065340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 573
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2026384cae2ff7d60800000000000000
+      internalID: 7890292162309612034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_24
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 559
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96be618150ed501d0800000000000000
+      internalID: -3385055431438701719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 537
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597021940c468ce00800000000000000
+      internalID: 1065212088895539093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 571
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d24364f1aa1b0bf0800000000000000
+      internalID: -357162462553619756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_27
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 581
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a453a6df1b45f60800000000000000
+      internalID: 8022232538220415552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_28
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 627
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb5f54f5cf994b40800000000000000
+      internalID: 5425042898701736882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_29
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 619
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8778af6ad6fe928f0800000000000000
+      internalID: -564657024026376328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_30
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 565
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa131d059fd6dbb20800000000000000
+      internalID: 3151796231799386543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 599
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f499b74b0dd254e0800000000000000
+      internalID: -1994288644453985032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_32
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 639
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e8fca1992ec650800000000000000
+      internalID: 6254982638113187717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 527
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0cc98d8acdd1b80800000000000000
+      internalID: -8422333110366191431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_34
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 549
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d201d539616c760800000000000000
+      internalID: 7477689053472632162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_35
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 537
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2614d778b04953ba0800000000000000
+      internalID: -6109814542219525790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 487
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dea75e8acf263d80800000000000000
+      internalID: -8271371118601326887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 535
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3e0ed2d0696250800000000000000
+      internalID: 5938384042449583213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 527
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16f3a256c60bfbb0800000000000000
+      internalID: -4901316320602884578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 515
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353e5164825c86540800000000000000
+      internalID: 5001464162960139091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_40
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 487
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babadfce5804bef90800000000000000
+      internalID: -6923369058201130069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_41
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 535
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57309b65132d76e00800000000000000
+      internalID: 1038029348482384757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_42
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 499
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24c9a129a1180340800000000000000
+      internalID: 4830130018466776111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_43
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 527
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab619583a686b980800000000000000
+      internalID: -8523477207873393746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_44
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 535
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c2a1825945075b0800000000000000
+      internalID: -5372701355853337477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_45
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 535
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd3c3aa04fc4f70800000000000000
+      internalID: 9172974867581229948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_46
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 511
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ef9668e49336c60800000000000000
+      internalID: 7810149188215897699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_47
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 511
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e609d9d46e53930800000000000000
+      internalID: 4122454254957915801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_48
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 516
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412f5dd4840ff9ce0800000000000000
+      internalID: -1396133166127386092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 377
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b198e872ecd9b7880800000000000000
+      internalID: -8612116353663465189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 463
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e353571d9ed753c0800000000000000
+      internalID: -4370780147057208350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 445
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09d4b3fc0ba55b0800000000000000
+      internalID: -5378792400840978238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_52
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 477
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e617afcccbd16ed0800000000000000
+      internalID: -2422413451844970775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_53
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 479
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e011ce40ed50d7a0800000000000000
+      internalID: -6354475856244436763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_54
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 47
+        width: 255
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88428bb782f7653f0800000000000000
+      internalID: -912402062644861816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 415
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea330704f5dca5f10800000000000000
+      internalID: 2259343972066407342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_56
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 453
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7a8fd7e7837f4c0800000000000000
+      internalID: -4253869207097661505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_57
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 463
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8326704434f7a2fd0800000000000000
+      internalID: -2365938727348903368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_58
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 425
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae4ca682c1b3d8b0800000000000000
+      internalID: -5128560101603651935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_59
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 431
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4d708e536aa1470800000000000000
+      internalID: 8366182008250422522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_60
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 307
+        width: 33
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11585a44e16842f90800000000000000
+      internalID: -6979306057958587119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d577c7b9d4f47c210800000000000000
+      internalID: 1353137407787824989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_62
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 285
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1574dbefe7de3d0800000000000000
+      internalID: -3175742529663970838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_63
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 261
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150ad0a337f167a10800000000000000
+      internalID: 1906746071993655377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_64
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 249
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ba660f60af7eae0800000000000000
+      internalID: -1519971441504244956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_65
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 258
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c34d4e34ee79590800000000000000
+      internalID: -7667397865205646306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_66
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 255
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039322266deb671a0800000000000000
+      internalID: -6812047558372607696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_67
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 255
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c184d186ac3670800000000000000
+      internalID: 8519867671624401355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_68
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 144
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e99c5b66a04f5910800000000000000
+      internalID: 1828251057245690340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_69
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 191
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681e7cdc1ecbe8f90800000000000000
+      internalID: -6949409496980004474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 127
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a246bdb8570303b0800000000000000
+      internalID: -5547582238268964187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 161
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b1aaeacb9254430800000000000000
+      internalID: 3766462553726262124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_72
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 129
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1063c105a8af1330800000000000000
+      internalID: 3683848446865006618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c6d3922d6036fe0800000000000000
+      internalID: -1197105576245629927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_74
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 112
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817e5047cde01c9b0800000000000000
+      internalID: -5061748166185588968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_75
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 103
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae0c1f51cf1acd0800000000000000
+      internalID: -2548478742934525321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_76
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44fccec6394839b0800000000000000
+      internalID: -5100246078250486705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_77
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 97
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3116f87ff4f90eb0800000000000000
+      internalID: -4752998553629617859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_78
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 79
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b436083dd62f130800000000000000
+      internalID: 3599059807381965621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_79
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 81
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e43f1474a20c9d0800000000000000
+      internalID: -2756156486413234530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_80
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 81
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c38bd7098f7717b0800000000000000
+      internalID: -5253590213785320506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_81
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 61
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5057f01bdb145ab00800000000000000
+      internalID: 839149188549670149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_82
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 45
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41611bf9ea19c55e0800000000000000
+      internalID: -1919499161977154028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_83
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 30
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421baabbde9afd1e0800000000000000
+      internalID: -2170829656848420572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 39
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d48a24f9e1e9f00800000000000000
+      internalID: 1125370626256162188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_85
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 35
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7363c67b84ea2eb90800000000000000
+      internalID: -7214012025755912649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_86
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 51
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba801ef80e000f80800000000000000
+      internalID: -8142492694500832586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_87
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4167fb34cf2dadd0800000000000000
+      internalID: -2473268100490370741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CavaliereN_88
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 17
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cafd3b8c150a370800000000000000
+      internalID: 8331749233088506966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CavaliereN_0: -9187957008317724068
+      CavaliereN_1: 381927513587935080
+      CavaliereN_10: -6314700622067521583
+      CavaliereN_11: -6933606367418389725
+      CavaliereN_12: -2287913261070956055
+      CavaliereN_13: 998963998712216055
+      CavaliereN_14: 7105157501593188597
+      CavaliereN_15: -4009536330828339883
+      CavaliereN_16: -3037540187467308500
+      CavaliereN_17: -4747555237692201817
+      CavaliereN_18: 588228901837849767
+      CavaliereN_19: 298832707708794044
+      CavaliereN_2: -7639583635484837952
+      CavaliereN_20: -7784599469664777430
+      CavaliereN_21: -6050750856176470075
+      CavaliereN_22: -5691026154347065340
+      CavaliereN_23: 7890292162309612034
+      CavaliereN_24: -3385055431438701719
+      CavaliereN_25: 1065212088895539093
+      CavaliereN_26: -357162462553619756
+      CavaliereN_27: 8022232538220415552
+      CavaliereN_28: 5425042898701736882
+      CavaliereN_29: -564657024026376328
+      CavaliereN_3: 5740923022293613143
+      CavaliereN_30: 3151796231799386543
+      CavaliereN_31: -1994288644453985032
+      CavaliereN_32: 6254982638113187717
+      CavaliereN_33: -8422333110366191431
+      CavaliereN_34: 7477689053472632162
+      CavaliereN_35: -6109814542219525790
+      CavaliereN_36: -8271371118601326887
+      CavaliereN_37: 5938384042449583213
+      CavaliereN_38: -4901316320602884578
+      CavaliereN_39: 5001464162960139091
+      CavaliereN_4: 7552864763038384945
+      CavaliereN_40: -6923369058201130069
+      CavaliereN_41: 1038029348482384757
+      CavaliereN_42: 4830130018466776111
+      CavaliereN_43: -8523477207873393746
+      CavaliereN_44: -5372701355853337477
+      CavaliereN_45: 9172974867581229948
+      CavaliereN_46: 7810149188215897699
+      CavaliereN_47: 4122454254957915801
+      CavaliereN_48: -1396133166127386092
+      CavaliereN_49: -8612116353663465189
+      CavaliereN_5: 3922804434327615512
+      CavaliereN_50: -4370780147057208350
+      CavaliereN_51: -5378792400840978238
+      CavaliereN_52: -2422413451844970775
+      CavaliereN_53: -6354475856244436763
+      CavaliereN_54: -912402062644861816
+      CavaliereN_55: 2259343972066407342
+      CavaliereN_56: -4253869207097661505
+      CavaliereN_57: -2365938727348903368
+      CavaliereN_58: -5128560101603651935
+      CavaliereN_59: 8366182008250422522
+      CavaliereN_6: 5376731298427963127
+      CavaliereN_60: -6979306057958587119
+      CavaliereN_61: 1353137407787824989
+      CavaliereN_62: -3175742529663970838
+      CavaliereN_63: 1906746071993655377
+      CavaliereN_64: -1519971441504244956
+      CavaliereN_65: -7667397865205646306
+      CavaliereN_66: -6812047558372607696
+      CavaliereN_67: 8519867671624401355
+      CavaliereN_68: 1828251057245690340
+      CavaliereN_69: -6949409496980004474
+      CavaliereN_7: -7172763400962589659
+      CavaliereN_70: -5547582238268964187
+      CavaliereN_71: 3766462553726262124
+      CavaliereN_72: 3683848446865006618
+      CavaliereN_73: -1197105576245629927
+      CavaliereN_74: -5061748166185588968
+      CavaliereN_75: -2548478742934525321
+      CavaliereN_76: -5100246078250486705
+      CavaliereN_77: -4752998553629617859
+      CavaliereN_78: 3599059807381965621
+      CavaliereN_79: -2756156486413234530
+      CavaliereN_8: -3781728404460390659
+      CavaliereN_80: -5253590213785320506
+      CavaliereN_81: 839149188549670149
+      CavaliereN_82: -1919499161977154028
+      CavaliereN_83: -2170829656848420572
+      CavaliereN_84: 1125370626256162188
+      CavaliereN_85: -7214012025755912649
+      CavaliereN_86: -8142492694500832586
+      CavaliereN_87: -2473268100490370741
+      CavaliereN_88: 8331749233088506966
+      CavaliereN_9: 1592407104948376293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

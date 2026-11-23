@@ -1,0 +1,5111 @@
+fileFormatVersion: 2
+guid: 657862d6c0119dd48976d8141b1df22b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8079784911301360311
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_0
+  - first:
+      213: 8686157868098281901
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_1
+  - first:
+      213: 3148718964184279426
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_2
+  - first:
+      213: -8223791731171450287
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_3
+  - first:
+      213: 6573388027815288551
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_4
+  - first:
+      213: 939333605287167610
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_5
+  - first:
+      213: 6242540076307951450
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_6
+  - first:
+      213: 7463456538604537204
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_7
+  - first:
+      213: 2201647684788195679
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_8
+  - first:
+      213: -8847402867235541228
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_9
+  - first:
+      213: 3561540804187678209
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_10
+  - first:
+      213: -5500677917070711831
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_11
+  - first:
+      213: 2493047624937434137
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_12
+  - first:
+      213: -8757512746373894136
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_13
+  - first:
+      213: -9171959029430458189
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_14
+  - first:
+      213: 3870908842372430080
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_15
+  - first:
+      213: 160209722849897706
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_16
+  - first:
+      213: -1830939981780981354
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_17
+  - first:
+      213: -6460228258245345246
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_18
+  - first:
+      213: -1516482022964876587
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_19
+  - first:
+      213: -2289237057935679465
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_20
+  - first:
+      213: 6611527773122017872
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_21
+  - first:
+      213: 602902320895069485
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_22
+  - first:
+      213: 3936028668529148807
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_23
+  - first:
+      213: 6616943312138158124
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_24
+  - first:
+      213: -6328228639199866618
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_25
+  - first:
+      213: -608160187762229262
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_26
+  - first:
+      213: 8344235061851387760
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_27
+  - first:
+      213: -574351768392134157
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_28
+  - first:
+      213: -3220721420206938335
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_29
+  - first:
+      213: -4311385482512487474
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_30
+  - first:
+      213: 7123703192023817360
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_31
+  - first:
+      213: -4877772716184466578
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_32
+  - first:
+      213: -5941960798513059359
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_33
+  - first:
+      213: 2024108335328504530
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_34
+  - first:
+      213: -4287403801614342538
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_35
+  - first:
+      213: 60483124316710081
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_36
+  - first:
+      213: -4696913397233213812
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_37
+  - first:
+      213: -8663082872025847458
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_38
+  - first:
+      213: -4821622453291245230
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_39
+  - first:
+      213: -6379020610487480899
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_40
+  - first:
+      213: -2153780904823226757
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_41
+  - first:
+      213: 4232567452622309273
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_42
+  - first:
+      213: 4407088567961669011
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_43
+  - first:
+      213: -7267516096255165761
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_44
+  - first:
+      213: -1405807417501201805
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_45
+  - first:
+      213: -6428229122708569643
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_46
+  - first:
+      213: -3641097326803092789
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_47
+  - first:
+      213: 3803338675307794274
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_48
+  - first:
+      213: 7217934478645537277
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_49
+  - first:
+      213: -7929800338760267376
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_50
+  - first:
+      213: -5816471781435946758
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_51
+  - first:
+      213: 6590838673504441445
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_52
+  - first:
+      213: -1746617221330934873
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_53
+  - first:
+      213: 9207380408566901028
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_54
+  - first:
+      213: -5833555448056381087
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_55
+  - first:
+      213: -4940287909410635058
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_56
+  - first:
+      213: 7048127886067001975
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_57
+  - first:
+      213: -1252479682617002302
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_58
+  - first:
+      213: -6297380604033228383
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_59
+  - first:
+      213: 6085058459818250976
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_60
+  - first:
+      213: -8484200320045604497
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_61
+  - first:
+      213: -895946500338783144
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_62
+  - first:
+      213: -4888835807809656124
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_63
+  - first:
+      213: -165797163723923458
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_64
+  - first:
+      213: 4999476160699543865
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_65
+  - first:
+      213: 6718847542860611472
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_66
+  - first:
+      213: 2686208597962092408
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_67
+  - first:
+      213: 701036314818724795
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_68
+  - first:
+      213: -6961088713184669314
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_69
+  - first:
+      213: -6049756458762599265
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_70
+  - first:
+      213: -2414780974096258478
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_71
+  - first:
+      213: 5682226681290222948
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_72
+  - first:
+      213: -3645392138422226670
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_73
+  - first:
+      213: -3983564416148885398
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_74
+  - first:
+      213: -1095850185515305848
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_75
+  - first:
+      213: -8554992048443453317
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_76
+  - first:
+      213: -6353826345449079119
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_77
+  - first:
+      213: -3411782130304012409
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_78
+  - first:
+      213: 3908422355890969026
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_79
+  - first:
+      213: -2699908688676365477
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_80
+  - first:
+      213: 8058907135061226245
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_81
+  - first:
+      213: 9145481676306838195
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_82
+  - first:
+      213: 6537652848991347554
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_83
+  - first:
+      213: -2772006821815993201
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_84
+  - first:
+      213: 4001958970455460272
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_85
+  - first:
+      213: -7558539963818827389
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_86
+  - first:
+      213: 7075916319255818959
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_87
+  - first:
+      213: -285192508034902643
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_88
+  - first:
+      213: -4666547184687603743
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_89
+  - first:
+      213: 9217889672404853259
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_90
+  - first:
+      213: 7590900129820697490
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_91
+  - first:
+      213: -8609964697498948030
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_92
+  - first:
+      213: 797474092630262908
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_93
+  - first:
+      213: 4966261158520736101
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_94
+  - first:
+      213: -944696054003365833
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_95
+  - first:
+      213: -8118872844628750083
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_96
+  - first:
+      213: 7625390901140024809
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_97
+  - first:
+      213: 8596054591845412565
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_98
+  - first:
+      213: 2656468153849954273
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_99
+  - first:
+      213: 7807270491006481886
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_100
+  - first:
+      213: -5774210829890475092
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_101
+  - first:
+      213: 8119256487810852901
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_102
+  - first:
+      213: -2092738833147771612
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_103
+  - first:
+      213: 6364548808654645891
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_104
+  - first:
+      213: 2749064927726534377
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_105
+  - first:
+      213: 5903073581862203236
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_106
+  - first:
+      213: -3609446029552456682
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_107
+  - first:
+      213: 489791005203089926
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_108
+  - first:
+      213: -5072907154243088005
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_109
+  - first:
+      213: -8231153002235769773
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_110
+  - first:
+      213: 6663070364603832993
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_111
+  - first:
+      213: 4844394481008467828
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_112
+  - first:
+      213: 4225610038212945518
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_113
+  - first:
+      213: -2228411894606260995
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_114
+  - first:
+      213: -287514324239082767
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_115
+  - first:
+      213: 6923890049128368186
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_116
+  - first:
+      213: -5616510393062099712
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_117
+  - first:
+      213: -3585797511280180808
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_118
+  - first:
+      213: -137976792676185286
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_119
+  - first:
+      213: 6201619904956509901
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_120
+  - first:
+      213: 4891259598075151581
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_121
+  - first:
+      213: -3309542125244730599
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_122
+  - first:
+      213: 519581350187869394
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_123
+  - first:
+      213: -6861012359252938395
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_124
+  - first:
+      213: 9054113198235303013
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_125
+  - first:
+      213: -1004506634116932787
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_126
+  - first:
+      213: 3145295429275931697
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_127
+  - first:
+      213: -4499588278763258864
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_128
+  - first:
+      213: -2202183153502247620
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_129
+  - first:
+      213: -5360723988760440790
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_130
+  - first:
+      213: 5443162009401421885
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_131
+  - first:
+      213: 4387467052508219656
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_132
+  - first:
+      213: -4470615403323522395
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_133
+  - first:
+      213: -8589336793391806792
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_134
+  - first:
+      213: 362305084038743377
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_135
+  - first:
+      213: 1236256670131500817
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_136
+  - first:
+      213: 390626509478901402
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_137
+  - first:
+      213: 4128511190287845336
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_138
+  - first:
+      213: 7810402181923819063
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_139
+  - first:
+      213: -5866762411677798041
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_140
+  - first:
+      213: -7296195891122853498
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_141
+  - first:
+      213: 8959464877303421583
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_142
+  - first:
+      213: -7468503467312775833
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_143
+  - first:
+      213: 4092792800855474311
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_144
+  - first:
+      213: 7887062348048979838
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_145
+  - first:
+      213: -6005035605068653036
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_146
+  - first:
+      213: 5270052985494557963
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_147
+  - first:
+      213: 9080248771368073203
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_148
+  - first:
+      213: 139685882121345210
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_149
+  - first:
+      213: -2322600914516192324
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_150
+  - first:
+      213: 7167417899742602345
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_151
+  - first:
+      213: 8046914773159457925
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_152
+  - first:
+      213: 4790792174761698647
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_153
+  - first:
+      213: -4008267022890122537
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_154
+  - first:
+      213: 3673133410558578156
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_155
+  - first:
+      213: -5137712278257550842
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_156
+  - first:
+      213: 1167327854264708103
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_157
+  - first:
+      213: -6720825274125798919
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_158
+  - first:
+      213: -7697914759332143484
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_159
+  - first:
+      213: -4459116103735930810
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_160
+  - first:
+      213: 3731928999449535917
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_161
+  - first:
+      213: -8517195666358614364
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_162
+  - first:
+      213: 4471899156429538564
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_163
+  - first:
+      213: -6254630929758697447
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_164
+  - first:
+      213: -5608497496056481563
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_165
+  - first:
+      213: 51122876416336230
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_166
+  - first:
+      213: -8323705332029400147
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_167
+  - first:
+      213: -3197389911698894486
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_168
+  - first:
+      213: -8563467573399971110
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_169
+  - first:
+      213: 1762284248709987313
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_170
+  - first:
+      213: 6524932440235073364
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_171
+  - first:
+      213: 6476917541012732049
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_172
+  - first:
+      213: -6490728529099927716
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_173
+  - first:
+      213: -5768441632782492183
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_174
+  - first:
+      213: -833897530030229377
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_175
+  - first:
+      213: -1173890874289679198
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_176
+  - first:
+      213: 3493874255111953079
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_177
+  - first:
+      213: 3227982940191808910
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_178
+  - first:
+      213: 9037409847443315204
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_179
+  - first:
+      213: 6572367537828369565
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_180
+  - first:
+      213: -8985634424006905402
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_181
+  - first:
+      213: 1129765053455727454
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_182
+  - first:
+      213: -2720546645140792717
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_183
+  - first:
+      213: -8251827144250822996
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_184
+  - first:
+      213: -3833347339962383074
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_185
+  - first:
+      213: 979668783995389795
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_186
+  - first:
+      213: -1489374006211611729
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_187
+  - first:
+      213: -8625035909190713519
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_188
+  - first:
+      213: 852590420848324121
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_189
+  - first:
+      213: 8565149947625280347
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_190
+  - first:
+      213: 3656993292567257015
+    second: Soldato_64x64_8_Direzioni_iddle_Spridesheet_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94542548e66dedf80800000000000000
+      internalID: -8079784911301360311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da166fe4f8e6b8870800000000000000
+      internalID: 8686157868098281901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2896dbd173f72bb20800000000000000
+      internalID: 3148718964184279426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1522bb4fdf83fdd80800000000000000
+      internalID: -8223791731171450287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee5cb0859d593b50800000000000000
+      internalID: 6573388027815288551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a768abcefee290d00800000000000000
+      internalID: 939333605287167610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa9700025f1a650800000000000000
+      internalID: 6242540076307951450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4750714cd26839760800000000000000
+      internalID: 7463456538604537204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f519c5c87e2dd8e10800000000000000
+      internalID: 2201647684788195679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f27a1c7f5b73580800000000000000
+      internalID: -8847402867235541228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1066aa6dd722d6130800000000000000
+      internalID: 3561540804187678209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e32a29049aa9a3b0800000000000000
+      internalID: -5500677917070711831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ce68c2b95199220800000000000000
+      internalID: 2493047624937434137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800bd647e80177680800000000000000
+      internalID: -8757512746373894136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b86c5c9bd7a6b080800000000000000
+      internalID: -9171959029430458189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009f68b451b38b530800000000000000
+      internalID: 3870908842372430080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec2804e4ed293200800000000000000
+      internalID: 160209722849897706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69962ec89c13796e0800000000000000
+      internalID: -1830939981780981354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220885b70a8a856a0800000000000000
+      internalID: -6460228258245345246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daa9e082af54fae0800000000000000
+      internalID: -1516482022964876587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7106513560ffa30e0800000000000000
+      internalID: -2289237057935679465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a3193fa7dd0cb50800000000000000
+      internalID: 6611527773122017872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d853f6770fd5800800000000000000
+      internalID: 602902320895069485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7830f6558359f9630800000000000000
+      internalID: 3936028668529148807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2044e262ea14db50800000000000000
+      internalID: 6616943312138158124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601d90fb49d9d28a0800000000000000
+      internalID: -6328228639199866618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffb5e908816f87f0800000000000000
+      internalID: -608160187762229262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077f200449dacc370800000000000000
+      internalID: 8344235061851387760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f19ed41c1e7708f0800000000000000
+      internalID: -574351768392134157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127e214bee2bd43d0800000000000000
+      internalID: -3220721420206938335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb21111fb1ea24c0800000000000000
+      internalID: -4311385482512487474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c55e56f4a7cd260800000000000000
+      internalID: 7123703192023817360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b8bb4ee8bae4cb0800000000000000
+      internalID: -4877772716184466578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e92557b22ae98da0800000000000000
+      internalID: -5941960798513059359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daa92a8ec3171c10800000000000000
+      internalID: 2024108335328504530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6762e1445f41084c0800000000000000
+      internalID: -4287403801614342538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4adc3c411e6d000800000000000000
+      internalID: 60483124316710081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e1429862631deb0800000000000000
+      internalID: -4696913397233213812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59e021e60c86c780800000000000000
+      internalID: -8663082872025847458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251278ebce7261db0800000000000000
+      internalID: -4821622453291245230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd8ff06d8a2977a0800000000000000
+      internalID: -6379020610487480899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7efdf3adab3c12e0800000000000000
+      internalID: -2153780904823226757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ce6d4ca91dba30800000000000000
+      internalID: 4232567452622309273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d4a0be3bf192d30800000000000000
+      internalID: 4407088567961669011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaf64b8d98942b90800000000000000
+      internalID: -7267516096255165761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a4b312a919d7ce0800000000000000
+      internalID: -1405807417501201805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1822ecba75ac6a0800000000000000
+      internalID: -6428229122708569643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaf64bc549387dc0800000000000000
+      internalID: -3641097326803092789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fc93ecf5c28c430800000000000000
+      internalID: 3803338675307794274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df926b38a214b2460800000000000000
+      internalID: 7217934478645537277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990c641b90b3f190800000000000000
+      internalID: -7929800338760267376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af84d655bbdb74fa0800000000000000
+      internalID: -5816471781435946758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56493229adc577b50800000000000000
+      internalID: 6590838673504441445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a36df324e4c2c7e0800000000000000
+      internalID: -1746617221330934873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4296584e2bf27cf70800000000000000
+      internalID: 9207380408566901028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1610e0d3a3c0b0fa0800000000000000
+      internalID: -5833555448056381087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec20c673252907bb0800000000000000
+      internalID: -4940287909410635058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a6c8448faffc160800000000000000
+      internalID: 7048127886067001975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c638355d5c4e9ee0800000000000000
+      internalID: -1252479682617002302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a12a21a4b53b98a0800000000000000
+      internalID: -6297380604033228383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d3fedd68727450800000000000000
+      internalID: 6085058459818250976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f612d6892c0124a80800000000000000
+      internalID: -8484200320045604497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c6d85a765f093f0800000000000000
+      internalID: -895946500338783144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caab462cbd572cb0800000000000000
+      internalID: -4888835807809656124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effd777ab58f2bdf0800000000000000
+      internalID: -165797163723923458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b78d6415b16540800000000000000
+      internalID: 4999476160699543865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f76340e342e3d50800000000000000
+      internalID: 6718847542860611472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f612adc74574520800000000000000
+      internalID: 2686208597962092408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb34b6760d49ab900800000000000000
+      internalID: 701036314818724795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7195a062be356f90800000000000000
+      internalID: -6961088713184669314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9484d1cd82fa0ca0800000000000000
+      internalID: -6049756458762599265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aee948f79fc7ed0800000000000000
+      internalID: -2414780974096258478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dec879f035bde40800000000000000
+      internalID: 5682226681290222948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211775a0a27f86dc0800000000000000
+      internalID: -3645392138422226670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a603f83f44987b8c0800000000000000
+      internalID: -3983564416148885398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8847055ff02cac0f0800000000000000
+      internalID: -1095850185515305848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b709c38ee00964980800000000000000
+      internalID: -8554992048443453317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be3df25a9ca2d7a0800000000000000
+      internalID: -6353826345449079119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f24389a3ae6a0d0800000000000000
+      internalID: -3411782130304012409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9931bcc618d3630800000000000000
+      internalID: 3908422355890969026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b54753a5ff78ad0800000000000000
+      internalID: -2699908688676365477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5037f27675df6df60800000000000000
+      internalID: 8058907135061226245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2fc1831274bee70800000000000000
+      internalID: 9145481676306838195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26323f0d0a86aba50800000000000000
+      internalID: 6537652848991347554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cb2b67b7ad789d0800000000000000
+      internalID: -2772006821815993201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b98fa7fa70d98730800000000000000
+      internalID: 4001958970455460272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3812cf323fbaa1790800000000000000
+      internalID: -7558539963818827389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f1ad0764b23260800000000000000
+      internalID: 7075916319255818959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d851af9cceaca0cf0800000000000000
+      internalID: -285192508034902643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef98195f081d3fb0800000000000000
+      internalID: -4666547184687603743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02ee6e81d58cef70800000000000000
+      internalID: 9217889672404853259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293ed63237b485960800000000000000
+      internalID: 7590900129820697490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eebe4a9b2438880800000000000000
+      internalID: -8609964697498948030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74cdc84672311b00800000000000000
+      internalID: 797474092630262908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569c2771634bbe440800000000000000
+      internalID: 4966261158520736101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7388a60b1f3c3e2f0800000000000000
+      internalID: -944696054003365833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df09657d928f35f80800000000000000
+      internalID: -8118872844628750083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed62ff9f94d2d960800000000000000
+      internalID: 7625390901140024809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deafc08b125b4770800000000000000
+      internalID: 8596054591845412565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef3d5b16bbadd420800000000000000
+      internalID: 2656468153849954273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5b4d9952ff85c60800000000000000
+      internalID: 7807270491006481886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab2a22e7d1eddfa0800000000000000
+      internalID: -5774210829890475092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528604c02c46da070800000000000000
+      internalID: 8119256487810852901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425cf8a7e1915f2e0800000000000000
+      internalID: -2092738833147771612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aee7fab6b635850800000000000000
+      internalID: 6364548808654645891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeff919cf3a62620800000000000000
+      internalID: 2749064927726534377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fa3e9952eebe150800000000000000
+      internalID: 5903073581862203236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ce494b5fba8edc0800000000000000
+      internalID: -3609446029552456682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60acf4ff2561cc600800000000000000
+      internalID: 489791005203089926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b719dc412d96999b0800000000000000
+      internalID: -5072907154243088005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc8d974f115cd80800000000000000
+      internalID: -8231153002235769773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad4a3b13bf77c50800000000000000
+      internalID: 6663070364603832993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f5f502d1fba3340800000000000000
+      internalID: 4844394481008467828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66e10701f164aa30800000000000000
+      internalID: 4225610038212945518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df41db040371311e0800000000000000
+      internalID: -2228411894606260995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa94e3de3b820cf0800000000000000
+      internalID: -287514324239082767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38882ab059961060800000000000000
+      internalID: 6923890049128368186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057e381e852e02b0800000000000000
+      internalID: -5616510393062099712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b14aaf6920bc3ec0800000000000000
+      internalID: -3585797511280180808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bc94d86dec51ef0800000000000000
+      internalID: -137976792676185286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceacea2274901650800000000000000
+      internalID: 6201619904956509901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd44d7f70be31e340800000000000000
+      internalID: 4891259598075151581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913b897c8f42212d0800000000000000
+      internalID: -3309542125244730599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4add13c7ce53700800000000000000
+      internalID: 519581350187869394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561f9274c99c8c0a0800000000000000
+      internalID: -6861012359252938395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cbdf8abfba6ad70800000000000000
+      internalID: 9054113198235303013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bdfe2d9864f02f0800000000000000
+      internalID: -1004506634116932787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134d6a7478556ab20800000000000000
+      internalID: 3145295429275931697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cfdc0ec404e81c0800000000000000
+      internalID: -4499588278763258864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35262de6164071e0800000000000000
+      internalID: -2202183153502247620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20d40f3fe1ea95b0800000000000000
+      internalID: -5360723988760440790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30f549220ff98b40800000000000000
+      internalID: 5443162009401421885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8098b78d90a63ec30800000000000000
+      internalID: 4387467052508219656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2038d1afe25f1c0800000000000000
+      internalID: -4470615403323522395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b640b5d1bb8cc880800000000000000
+      internalID: -8589336793391806792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155827aed8a270500800000000000000
+      internalID: 362305084038743377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117356a34e0182110800000000000000
+      internalID: 1236256670131500817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a963751adb8cb6500800000000000000
+      internalID: 390626509478901402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d70554cd0b6b4930800000000000000
+      internalID: 4128511190287845336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e4186376f146c60800000000000000
+      internalID: 7810402181923819063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761b4568ba2159ea0800000000000000
+      internalID: -5866762411677798041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68925f17e74beba90800000000000000
+      internalID: -7296195891122853498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a524d26d9665c70800000000000000
+      internalID: 8959464877303421583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d7c039aab8a5890800000000000000
+      internalID: -7468503467312775833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780444a2e558cc830800000000000000
+      internalID: 4092792800855474311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7751d80b69747d60800000000000000
+      internalID: 7887062348048979838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e5f48eee3d9aca0800000000000000
+      internalID: -6005035605068653036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d3e3b44df22940800000000000000
+      internalID: 5270052985494557963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f73299f526830e70800000000000000
+      internalID: 9080248771368073203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8daf7d19340f100800000000000000
+      internalID: 139685882121345210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3d34f16c674cfd0800000000000000
+      internalID: -2322600914516192324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9642feeea98c77360800000000000000
+      internalID: 7167417899742602345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58433001a526caf60800000000000000
+      internalID: 8046914773159457925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7556469a9105c7240800000000000000
+      internalID: 4790792174761698647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2c8bf1166cf58c0800000000000000
+      internalID: -4008267022890122537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced86f4306799f230800000000000000
+      internalID: 3673133410558578156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60abb4857ed23b8b0800000000000000
+      internalID: -5137712278257550842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cedd9af7e233010800000000000000
+      internalID: 1167327854264708103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b34a8505dab2a0800000000000000
+      internalID: -6720825274125798919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e55cacf438b2590800000000000000
+      internalID: -7697914759332143484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640989077890e12c0800000000000000
+      internalID: -4459116103735930810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52b2307a97ac330800000000000000
+      internalID: 3731928999449535917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6c230eaa7dcc980800000000000000
+      internalID: -8517195666358614364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4050a52f6906f0e30800000000000000
+      internalID: 4471899156429538564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918cf8ece461339a0800000000000000
+      internalID: -6254630929758697447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8b2ef0e3d9a22b0800000000000000
+      internalID: -5608497496056481563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66121b83cff95b000800000000000000
+      internalID: 51122876416336230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabdc55f9124c7c80800000000000000
+      internalID: -8323705332029400147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6115c8d0d690a3d0800000000000000
+      internalID: -3197389911698894486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada1be9fc93782980800000000000000
+      internalID: -8563467573399971110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbff9def24e47810800000000000000
+      internalID: 1762284248709987313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f52abdb773d8a50800000000000000
+      internalID: 6524932440235073364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_172
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1987f87ff22a2e950800000000000000
+      internalID: 6476917541012732049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f4189cacc4ce5a0800000000000000
+      internalID: -6490728529099927716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_174
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eddc62c5e062ffa0800000000000000
+      internalID: -5768441632782492183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_175
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78f8775d966d64f0800000000000000
+      internalID: -833897530030229377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a414e8287085bfe0800000000000000
+      internalID: -1173890874289679198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba94d9af1cbc7030800000000000000
+      internalID: 3493874255111953079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_178
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d572ba1691ccc20800000000000000
+      internalID: 3227982940191808910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ad97ebf545b6d70800000000000000
+      internalID: 9037409847443315204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_180
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d949199247db53b50800000000000000
+      internalID: 6572367537828369565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1fb8b691d9c4380800000000000000
+      internalID: -8985634424006905402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_182
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bf0e2945bbdaf00800000000000000
+      internalID: 1129765053455727454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_183
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a90858d3dae3ad0800000000000000
+      internalID: -2720546645140792717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caee00faeee9b7d80800000000000000
+      internalID: -8251827144250822996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_185
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e158adc77e63dcac0800000000000000
+      internalID: -3833347339962383074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367859b819b789d00800000000000000
+      internalID: 979668783995389795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_187
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37e0e7b3ea45be0800000000000000
+      internalID: -1489374006211611729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_188
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ff2b9b987bd4880800000000000000
+      internalID: -8625035909190713519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_189
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ea095787205db00800000000000000
+      internalID: 852590420848324121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_190
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53192c4f768dd670800000000000000
+      internalID: 8565149947625280347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldato_64x64_8_Direzioni_iddle_Spridesheet_191
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf1575260040c230800000000000000
+      internalID: 3656993292567257015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89a109b4342c19c4e81bf4e2331c097e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":64.0,"y":64.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.11999999731779099},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_0: -8079784911301360311
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_1: 8686157868098281901
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_10: 3561540804187678209
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_100: 7807270491006481886
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_101: -5774210829890475092
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_102: 8119256487810852901
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_103: -2092738833147771612
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_104: 6364548808654645891
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_105: 2749064927726534377
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_106: 5903073581862203236
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_107: -3609446029552456682
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_108: 489791005203089926
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_109: -5072907154243088005
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_11: -5500677917070711831
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_110: -8231153002235769773
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_111: 6663070364603832993
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_112: 4844394481008467828
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_113: 4225610038212945518
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_114: -2228411894606260995
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_115: -287514324239082767
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_116: 6923890049128368186
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_117: -5616510393062099712
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_118: -3585797511280180808
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_119: -137976792676185286
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_12: 2493047624937434137
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_120: 6201619904956509901
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_121: 4891259598075151581
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_122: -3309542125244730599
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_123: 519581350187869394
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_124: -6861012359252938395
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_125: 9054113198235303013
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_126: -1004506634116932787
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_127: 3145295429275931697
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_128: -4499588278763258864
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_129: -2202183153502247620
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_13: -8757512746373894136
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_130: -5360723988760440790
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_131: 5443162009401421885
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_132: 4387467052508219656
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_133: -4470615403323522395
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_134: -8589336793391806792
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_135: 362305084038743377
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_136: 1236256670131500817
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_137: 390626509478901402
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_138: 4128511190287845336
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_139: 7810402181923819063
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_14: -9171959029430458189
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_140: -5866762411677798041
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_141: -7296195891122853498
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_142: 8959464877303421583
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_143: -7468503467312775833
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_144: 4092792800855474311
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_145: 7887062348048979838
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_146: -6005035605068653036
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_147: 5270052985494557963
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_148: 9080248771368073203
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_149: 139685882121345210
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_15: 3870908842372430080
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_150: -2322600914516192324
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_151: 7167417899742602345
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_152: 8046914773159457925
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_153: 4790792174761698647
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_154: -4008267022890122537
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_155: 3673133410558578156
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_156: -5137712278257550842
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_157: 1167327854264708103
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_158: -6720825274125798919
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_159: -7697914759332143484
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_16: 160209722849897706
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_160: -4459116103735930810
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_161: 3731928999449535917
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_162: -8517195666358614364
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_163: 4471899156429538564
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_164: -6254630929758697447
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_165: -5608497496056481563
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_166: 51122876416336230
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_167: -8323705332029400147
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_168: -3197389911698894486
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_169: -8563467573399971110
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_17: -1830939981780981354
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_170: 1762284248709987313
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_171: 6524932440235073364
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_172: 6476917541012732049
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_173: -6490728529099927716
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_174: -5768441632782492183
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_175: -833897530030229377
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_176: -1173890874289679198
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_177: 3493874255111953079
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_178: 3227982940191808910
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_179: 9037409847443315204
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_18: -6460228258245345246
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_180: 6572367537828369565
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_181: -8985634424006905402
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_182: 1129765053455727454
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_183: -2720546645140792717
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_184: -8251827144250822996
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_185: -3833347339962383074
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_186: 979668783995389795
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_187: -1489374006211611729
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_188: -8625035909190713519
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_189: 852590420848324121
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_19: -1516482022964876587
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_190: 8565149947625280347
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_191: 3656993292567257015
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_2: 3148718964184279426
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_20: -2289237057935679465
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_21: 6611527773122017872
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_22: 602902320895069485
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_23: 3936028668529148807
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_24: 6616943312138158124
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_25: -6328228639199866618
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_26: -608160187762229262
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_27: 8344235061851387760
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_28: -574351768392134157
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_29: -3220721420206938335
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_3: -8223791731171450287
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_30: -4311385482512487474
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_31: 7123703192023817360
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_32: -4877772716184466578
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_33: -5941960798513059359
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_34: 2024108335328504530
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_35: -4287403801614342538
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_36: 60483124316710081
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_37: -4696913397233213812
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_38: -8663082872025847458
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_39: -4821622453291245230
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_4: 6573388027815288551
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_40: -6379020610487480899
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_41: -2153780904823226757
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_42: 4232567452622309273
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_43: 4407088567961669011
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_44: -7267516096255165761
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_45: -1405807417501201805
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_46: -6428229122708569643
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_47: -3641097326803092789
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_48: 3803338675307794274
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_49: 7217934478645537277
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_5: 939333605287167610
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_50: -7929800338760267376
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_51: -5816471781435946758
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_52: 6590838673504441445
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_53: -1746617221330934873
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_54: 9207380408566901028
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_55: -5833555448056381087
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_56: -4940287909410635058
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_57: 7048127886067001975
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_58: -1252479682617002302
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_59: -6297380604033228383
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_6: 6242540076307951450
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_60: 6085058459818250976
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_61: -8484200320045604497
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_62: -895946500338783144
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_63: -4888835807809656124
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_64: -165797163723923458
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_65: 4999476160699543865
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_66: 6718847542860611472
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_67: 2686208597962092408
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_68: 701036314818724795
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_69: -6961088713184669314
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_7: 7463456538604537204
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_70: -6049756458762599265
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_71: -2414780974096258478
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_72: 5682226681290222948
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_73: -3645392138422226670
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_74: -3983564416148885398
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_75: -1095850185515305848
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_76: -8554992048443453317
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_77: -6353826345449079119
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_78: -3411782130304012409
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_79: 3908422355890969026
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_8: 2201647684788195679
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_80: -2699908688676365477
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_81: 8058907135061226245
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_82: 9145481676306838195
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_83: 6537652848991347554
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_84: -2772006821815993201
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_85: 4001958970455460272
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_86: -7558539963818827389
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_87: 7075916319255818959
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_88: -285192508034902643
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_89: -4666547184687603743
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_9: -8847402867235541228
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_90: 9217889672404853259
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_91: 7590900129820697490
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_92: -8609964697498948030
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_93: 797474092630262908
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_94: 4966261158520736101
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_95: -944696054003365833
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_96: -8118872844628750083
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_97: 7625390901140024809
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_98: 8596054591845412565
+      Soldato_64x64_8_Direzioni_iddle_Spridesheet_99: 2656468153849954273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

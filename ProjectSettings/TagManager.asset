@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player_P0
+  - Player_P1
+  - Muri_P0
+  - Muri_P1
+  - Scale
+  - Nemici
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pavimento
+    uniqueID: 110164029
+    locked: 0
+  - name: Personaggio_P0
+    uniqueID: 763538465
+    locked: 0
+  - name: Piattaforma
+    uniqueID: 2945146203
+    locked: 0
+  - name: Personaggio_P1
+    uniqueID: 2489581403
+    locked: 0
+  m_RenderingLayers:
+  - Default

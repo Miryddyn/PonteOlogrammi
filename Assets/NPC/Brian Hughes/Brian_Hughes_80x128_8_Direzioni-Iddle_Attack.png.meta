@@ -1,0 +1,5111 @@
+fileFormatVersion: 2
+guid: 1b8a2c862dd0ff743954efa582cd583f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4929069551322203312
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_0
+  - first:
+      213: -5354999079302183041
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_1
+  - first:
+      213: 4689867807460465363
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_2
+  - first:
+      213: -3866804501004652471
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_3
+  - first:
+      213: 8910193376219176428
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_4
+  - first:
+      213: -4926031489255664928
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_5
+  - first:
+      213: 3956486467356220728
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_6
+  - first:
+      213: 1607459537906599989
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_7
+  - first:
+      213: -940373449309373179
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_8
+  - first:
+      213: -3418939221608709777
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_9
+  - first:
+      213: 5836895551833733054
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_10
+  - first:
+      213: 6253585412701785853
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_11
+  - first:
+      213: -2934460859456770773
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_12
+  - first:
+      213: -1975970748826062929
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_13
+  - first:
+      213: -2809955375888632338
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_14
+  - first:
+      213: -1051262658652572391
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_15
+  - first:
+      213: -1566786100054192031
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_16
+  - first:
+      213: 3250642435091433534
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_17
+  - first:
+      213: 1247636387988748531
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_18
+  - first:
+      213: 553038681822039056
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_19
+  - first:
+      213: -5029483343864252997
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_20
+  - first:
+      213: 7565058999784287894
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_21
+  - first:
+      213: 4077454008311135252
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_22
+  - first:
+      213: 7600125734774393536
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_23
+  - first:
+      213: 3346377717890214170
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_24
+  - first:
+      213: 4660657466927380737
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_25
+  - first:
+      213: 544908176590330062
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_26
+  - first:
+      213: 8127808627569359127
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_27
+  - first:
+      213: -8170197659879432654
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_28
+  - first:
+      213: 6484379464397466158
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_29
+  - first:
+      213: 4345140297592648282
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_30
+  - first:
+      213: -5274022439022348638
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_31
+  - first:
+      213: -5696190055150575612
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_32
+  - first:
+      213: -1107329380501947161
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_33
+  - first:
+      213: -2778177432780203021
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_34
+  - first:
+      213: 6611028760757924532
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_35
+  - first:
+      213: -5136918815641416469
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_36
+  - first:
+      213: -5716248312214387180
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_37
+  - first:
+      213: 3346114765699585085
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_38
+  - first:
+      213: -1263682135540766965
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_39
+  - first:
+      213: 3554602484441675882
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_40
+  - first:
+      213: -1123899573805048735
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_41
+  - first:
+      213: -8550486334877294408
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_42
+  - first:
+      213: -2969105690414854051
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_43
+  - first:
+      213: 4429786506853635809
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_44
+  - first:
+      213: -9039723577590567960
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_45
+  - first:
+      213: -6436252132144380491
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_46
+  - first:
+      213: 7690667590240833469
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_47
+  - first:
+      213: -5404911649998224565
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_48
+  - first:
+      213: -6448787505729314680
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_49
+  - first:
+      213: -4871900389116759326
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_50
+  - first:
+      213: 4372162270683327405
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_51
+  - first:
+      213: -6072464520120912419
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_52
+  - first:
+      213: -3677071312113431177
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_53
+  - first:
+      213: -8911749451753004974
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_54
+  - first:
+      213: 1307253701524823984
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_55
+  - first:
+      213: -433862412966105643
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_56
+  - first:
+      213: -1718757717367670818
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_57
+  - first:
+      213: 179988790778114790
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_58
+  - first:
+      213: 2567644293600713725
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_59
+  - first:
+      213: 8860797504823543387
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_60
+  - first:
+      213: -1465684567483754057
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_61
+  - first:
+      213: -8552437751736227563
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_62
+  - first:
+      213: 5631110280239678455
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_63
+  - first:
+      213: -820078109700145563
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_64
+  - first:
+      213: 6403396767600554798
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_65
+  - first:
+      213: 4317083326339495915
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_66
+  - first:
+      213: -6569411343340939755
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_67
+  - first:
+      213: 5506427211079188024
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_68
+  - first:
+      213: -6497592265132741845
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_69
+  - first:
+      213: 1385355802459594284
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_70
+  - first:
+      213: 6182440969381554507
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_71
+  - first:
+      213: -8777814376539816761
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_72
+  - first:
+      213: -4949448430498370446
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_73
+  - first:
+      213: -1904233132934856869
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_74
+  - first:
+      213: -7988462689324903210
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_75
+  - first:
+      213: -1467627133010190819
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_76
+  - first:
+      213: 2219855373065297150
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_77
+  - first:
+      213: 6345015466154814470
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_78
+  - first:
+      213: 7942139086027383595
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_79
+  - first:
+      213: 8316187944227202335
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_80
+  - first:
+      213: 6566717297126797089
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_81
+  - first:
+      213: 459109254404325025
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_82
+  - first:
+      213: -7201631506760021622
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_83
+  - first:
+      213: 2895386794923591477
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_84
+  - first:
+      213: 1770225152658130485
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_85
+  - first:
+      213: 968606678212686467
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_86
+  - first:
+      213: 3835672315176620233
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_87
+  - first:
+      213: -5946081259126334824
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_88
+  - first:
+      213: 3099139861424493096
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_89
+  - first:
+      213: -6178683330036391690
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_90
+  - first:
+      213: 8543711219918881242
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_91
+  - first:
+      213: -4628709807027321316
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_92
+  - first:
+      213: -1341419060744936421
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_93
+  - first:
+      213: -4699404033790509552
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_94
+  - first:
+      213: 6572636896042497332
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_95
+  - first:
+      213: -2079210341512713854
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_96
+  - first:
+      213: 3159226762200735778
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_97
+  - first:
+      213: 160478248617048088
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_98
+  - first:
+      213: 8442252672997595461
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_99
+  - first:
+      213: -3966443469186233355
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_100
+  - first:
+      213: -2947638736171460552
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_101
+  - first:
+      213: -4394877353014127671
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_102
+  - first:
+      213: 3758709065986020657
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_103
+  - first:
+      213: -5731592763738204217
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_104
+  - first:
+      213: -8317728111277866295
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_105
+  - first:
+      213: 1145921560267156260
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_106
+  - first:
+      213: 3631956702639474193
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_107
+  - first:
+      213: 3708524893758531934
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_108
+  - first:
+      213: -6410514374953568273
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_109
+  - first:
+      213: -1548383451820434761
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_110
+  - first:
+      213: -3839229086660100179
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_111
+  - first:
+      213: -2626013389689778613
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_112
+  - first:
+      213: -1970293841462007392
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_113
+  - first:
+      213: 1475188414601023729
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_114
+  - first:
+      213: -4353799450824323182
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_115
+  - first:
+      213: 5737511546198598945
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_116
+  - first:
+      213: 7339497665536674503
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_117
+  - first:
+      213: 8954540902463962453
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_118
+  - first:
+      213: -5577049747826618263
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_119
+  - first:
+      213: 5150052382495931183
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_120
+  - first:
+      213: 4125359133246495279
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_121
+  - first:
+      213: -7670005162147931633
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_122
+  - first:
+      213: -906325260102313033
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_123
+  - first:
+      213: -3895213960147144619
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_124
+  - first:
+      213: 8875811520572423504
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_125
+  - first:
+      213: -1690782239261501324
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_126
+  - first:
+      213: 1550409940336337975
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_127
+  - first:
+      213: -7140431943811057800
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_128
+  - first:
+      213: 7065986741730552116
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_129
+  - first:
+      213: -384288257891099412
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_130
+  - first:
+      213: -8706768436674615320
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_131
+  - first:
+      213: -4546598338152786029
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_132
+  - first:
+      213: -7215660669762962954
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_133
+  - first:
+      213: 4176514193521019538
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_134
+  - first:
+      213: -2300102393473647588
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_135
+  - first:
+      213: 2865072471047584014
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_136
+  - first:
+      213: -6458537706390571607
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_137
+  - first:
+      213: -7827928696599313106
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_138
+  - first:
+      213: -4186520220565601085
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_139
+  - first:
+      213: 2198194516607897257
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_140
+  - first:
+      213: -2616768132830704155
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_141
+  - first:
+      213: 5579943169853160928
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_142
+  - first:
+      213: -8514146877873487283
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_143
+  - first:
+      213: -6952232817314642971
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_144
+  - first:
+      213: 7268150949163432243
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_145
+  - first:
+      213: 3414683117958312248
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_146
+  - first:
+      213: -4928592858949101626
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_147
+  - first:
+      213: -6749005869373361464
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_148
+  - first:
+      213: -3853011869000005001
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_149
+  - first:
+      213: -411410489119075120
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_150
+  - first:
+      213: 3249375082450903137
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_151
+  - first:
+      213: 8521566264981244108
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_152
+  - first:
+      213: 8099290721635674368
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_153
+  - first:
+      213: -7086229319871297942
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_154
+  - first:
+      213: 1016928711881656199
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_155
+  - first:
+      213: 3267810341681908869
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_156
+  - first:
+      213: 8166878847813997092
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_157
+  - first:
+      213: 7881361930401406186
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_158
+  - first:
+      213: 726753958996738045
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_159
+  - first:
+      213: -2614474192644187836
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_160
+  - first:
+      213: 1929036974928425038
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_161
+  - first:
+      213: -6523724154357427236
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_162
+  - first:
+      213: -2594568806499543724
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_163
+  - first:
+      213: 3538734375425672374
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_164
+  - first:
+      213: -8116050649009694045
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_165
+  - first:
+      213: 310091078784924363
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_166
+  - first:
+      213: -5453978308028410440
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_167
+  - first:
+      213: 4273329908517057275
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_168
+  - first:
+      213: -4504466426906273443
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_169
+  - first:
+      213: 1179077473293499370
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_170
+  - first:
+      213: 2485213528330267918
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_171
+  - first:
+      213: 3958349539802330780
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_172
+  - first:
+      213: 8197977277232465708
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_173
+  - first:
+      213: -391246709887198622
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_174
+  - first:
+      213: -7881530575899554706
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_175
+  - first:
+      213: 55818746305198600
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_176
+  - first:
+      213: -935208149348472668
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_177
+  - first:
+      213: 4335926163298811586
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_178
+  - first:
+      213: -1623996259739112508
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_179
+  - first:
+      213: -3645734197730693059
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_180
+  - first:
+      213: -4542116417085926563
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_181
+  - first:
+      213: -4529653813250607768
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_182
+  - first:
+      213: -995971520047116354
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_183
+  - first:
+      213: 547793774878291116
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_184
+  - first:
+      213: 6737506125433366346
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_185
+  - first:
+      213: 1928474329059194928
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_186
+  - first:
+      213: -1742037435755770988
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_187
+  - first:
+      213: -6439646794550106166
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_188
+  - first:
+      213: -5487824588520861027
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_189
+  - first:
+      213: 1292043462485231854
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_190
+  - first:
+      213: -7272279855510187731
+    second: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b401cf34a2976440800000000000000
+      internalID: 4929069551322203312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2944
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7746a995b83fa5b0800000000000000
+      internalID: -5354999079302183041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2944
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da98334ce1c51140800000000000000
+      internalID: 4689867807460465363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2944
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9407cb52bc9565ac0800000000000000
+      internalID: -3866804501004652471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2944
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced159ddaad57ab70800000000000000
+      internalID: 8910193376219176428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2944
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e21782b57833abb0800000000000000
+      internalID: -4926031489255664928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2944
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d586dca7348e630800000000000000
+      internalID: 3956486467356220728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2944
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5388cbbdee7de4610800000000000000
+      internalID: 1607459537906599989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50db4b5845f13f2f0800000000000000
+      internalID: -940373449309373179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2816
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61cc5b64ec7d80d0800000000000000
+      internalID: -3418939221608709777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2816
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb77b164491d00150800000000000000
+      internalID: 5836895551833733054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2816
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe87a8ccc239c650800000000000000
+      internalID: 6253585412701785853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2816
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2daac05563b647d0800000000000000
+      internalID: -2934460859456770773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2816
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafe8a5b211f394e0800000000000000
+      internalID: -1975970748826062929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2816
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5757139780109d0800000000000000
+      internalID: -2809955375888632338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2816
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91571698e2a2961f0800000000000000
+      internalID: -1051262658652572391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160104bd758a14ae0800000000000000
+      internalID: -1566786100054192031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2688
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e388f63721a9c1d20800000000000000
+      internalID: 3250642435091433534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2688
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8bbe24fae705110800000000000000
+      internalID: 1247636387988748531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2688
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c8d0140c9cca700800000000000000
+      internalID: 553038681822039056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2688
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb53a3dcb8fa33ab0800000000000000
+      internalID: -5029483343864252997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2688
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ea303341d7cf860800000000000000
+      internalID: 7565058999784287894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2688
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cb06931d6069830800000000000000
+      internalID: 4077454008311135252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2688
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca488da612197960800000000000000
+      internalID: 7600125734774393536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19e027fdc8b07e20800000000000000
+      internalID: 3346377717890214170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2560
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097affd54bfda040800000000000000
+      internalID: 4660657466927380737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2560
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec85fdc7917ef8700800000000000000
+      internalID: 544908176590330062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2560
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71970a042e6cbc070800000000000000
+      internalID: 8127808627569359127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2560
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e98221480ad9e80800000000000000
+      internalID: -8170197659879432654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2560
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aaf3464c42df950800000000000000
+      internalID: 6484379464397466158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2560
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52be31441a0d4c30800000000000000
+      internalID: 4345140297592648282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2560
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a632a0e888eec6b0800000000000000
+      internalID: -5274022439022348638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2432
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40023a5135113f0b0800000000000000
+      internalID: -5696190055150575612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2432
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecf3d99bc9f1a0f0800000000000000
+      internalID: -1107329380501947161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2432
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb1124285ee179d0800000000000000
+      internalID: -2778177432780203021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2432
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2fdd491a71fbb50800000000000000
+      internalID: 6611028760757924532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2432
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec4ca1cd8ff5b8b0800000000000000
+      internalID: -5136918815641416469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2432
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416098e227ecba0b0800000000000000
+      internalID: -5716248312214387180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2432
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d349633a6a9cf6e20800000000000000
+      internalID: 3346114765699585085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2432
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07e5120bcf767ee0800000000000000
+      internalID: -1263682135540766965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68fdd2602c745130800000000000000
+      internalID: 3554602484441675882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2304
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c1324da4b1760f0800000000000000
+      internalID: -1123899573805048735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2304
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0aec81bf1965980800000000000000
+      internalID: -8550486334877294408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2304
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d505b360b1e9bc6d0800000000000000
+      internalID: -2969105690414854051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2304
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e654d3ab53c97d30800000000000000
+      internalID: 4429786506853635809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2304
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebadf9fc437c8280800000000000000
+      internalID: -9039723577590567960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2304
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b50faa59c6dda6a0800000000000000
+      internalID: -6436252132144380491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2304
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0ae92d6dbaba60800000000000000
+      internalID: 7690667590240833469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b434c73ad75edf4b0800000000000000
+      internalID: -5404911649998224565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2176
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880e6014eed4186a0800000000000000
+      internalID: -6448787505729314680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2176
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2bb959868836cb0800000000000000
+      internalID: -4871900389116759326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2176
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabe174ab6a0dac30800000000000000
+      internalID: 4372162270683327405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2176
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5b70731b54abba0800000000000000
+      internalID: -6072464520120912419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2176
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d03b3af1b68fcc0800000000000000
+      internalID: -3677071312113431177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2176
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250eaf0171b135480800000000000000
+      internalID: -8911749451753004974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2176
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf93beb05c442210800000000000000
+      internalID: 1307253701524823984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde2c12f6c9af9f0800000000000000
+      internalID: -433862412966105643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2048
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7b65166feb528e0800000000000000
+      internalID: -1718757717367670818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2048
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b1e10ad27f7200800000000000000
+      internalID: 179988790778114790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2048
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb11ad81ea12a320800000000000000
+      internalID: 2567644293600713725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2048
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56cca55260e7fa70800000000000000
+      internalID: 8860797504823543387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2048
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9db52c6a7d8abe0800000000000000
+      internalID: -1465684567483754057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2048
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5192f147d23af4980800000000000000
+      internalID: -8552437751736227563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_63
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2048
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f38cb807f8b52e40800000000000000
+      internalID: 5631110280239678455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ebf3fdd4f7e94f0800000000000000
+      internalID: -820078109700145563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1920
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2337b8fe6f6dd850800000000000000
+      internalID: 6403396767600554798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1920
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be73a34996c59eb30800000000000000
+      internalID: 4317083326339495915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1920
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516ddb08033c4d4a0800000000000000
+      internalID: -6569411343340939755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e7be9cf52ca6c40800000000000000
+      internalID: 5506427211079188024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1920
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bef65b24ae3d5a0800000000000000
+      internalID: -6497592265132741845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1920
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e512d23c5c93310800000000000000
+      internalID: 1385355802459594284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_71
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1920
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b492fc04e417cc550800000000000000
+      internalID: 6182440969381554507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf606d450fe2680800000000000000
+      internalID: -8777814376539816761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1792
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ca70230e6005bb0800000000000000
+      internalID: -4949448430498370446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1792
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f73edfd0ec295e0800000000000000
+      internalID: -1904233132934856869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1792
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4d35d3287432190800000000000000
+      internalID: -7988462689324903210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ed33af5e0f1abe0800000000000000
+      internalID: -1467627133010190819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1792
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc9c4453b28ece10800000000000000
+      internalID: 2219855373065297150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1792
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c648af2f50e0850800000000000000
+      internalID: 6345015466154814470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_79
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1792
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2368636b65283e60800000000000000
+      internalID: 7942139086027383595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156c0dcfd8096370800000000000000
+      internalID: 8316187944227202335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1664
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fe7abf69aa12b50800000000000000
+      internalID: 6566717297126797089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1664
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae3dd53f651f5600800000000000000
+      internalID: 459109254404325025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1664
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89ce4cec4aae0c90800000000000000
+      internalID: -7201631506760021622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53707c613fa7e2820800000000000000
+      internalID: 2895386794923591477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1664
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53646a4b56a119810800000000000000
+      internalID: 1770225152658130485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1664
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38230f554ae217d00800000000000000
+      internalID: 968606678212686467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_87
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1664
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c017ecf5ab0b3530800000000000000
+      internalID: 3835672315176620233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ada2839964b7da0800000000000000
+      internalID: -5946081259126334824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1536
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822d575b84b520b20800000000000000
+      internalID: 3099139861424493096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1536
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ad855f38e04aa0800000000000000
+      internalID: -6178683330036391690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1536
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c8c6861c519670800000000000000
+      internalID: 8543711219918881242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1605c754f483cfb0800000000000000
+      internalID: -4628709807027321316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_93
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1536
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b142c5da872526de0800000000000000
+      internalID: -1341419060744936421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1536
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ef0e50eec58ceb0800000000000000
+      internalID: -4699404033790509552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_95
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1536
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4353d320f62b63b50800000000000000
+      internalID: 6572636896042497332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289e0d4e5392523e0800000000000000
+      internalID: -2079210341512713854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1408
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220e1ed7004d7db20800000000000000
+      internalID: 3159226762200735778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1408
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818fefaed122a3200800000000000000
+      internalID: 160478248617048088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1408
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5491d1eb318e82570800000000000000
+      internalID: 8442252672997595461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8c7d0eac54f8c0800000000000000
+      internalID: -3966443469186233355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_101
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1408
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838915ccf22e717d0800000000000000
+      internalID: -2947638736171460552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1408
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c31f2e15524203c0800000000000000
+      internalID: -4394877353014127671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_103
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1408
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13513242bfd992430800000000000000
+      internalID: 3758709065986020657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c75f28afba4570b0800000000000000
+      internalID: -5731592763738204217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2800d1a5e719c80800000000000000
+      internalID: -8317728111277866295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1280
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6f24769127ef00800000000000000
+      internalID: 1145921560267156260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_107
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1280
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116cc6cc06d476230800000000000000
+      internalID: 3631956702639474193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ab250eb3577330800000000000000
+      internalID: 3708524893758531934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1280
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77b5de3274907a0800000000000000
+      internalID: -6410514374953568273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_110
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1280
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba562a4479038ae0800000000000000
+      internalID: -1548383451820434761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_111
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1280
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daff64e9c7158bac0800000000000000
+      internalID: -3839229086660100179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e0f1c3cb68e8bd0800000000000000
+      internalID: -2626013389689778613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1152
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a96484b03c18a4e0800000000000000
+      internalID: -1970293841462007392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1152
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0d0151c0ce87410800000000000000
+      internalID: 1475188414601023729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1152
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f435687723493c0800000000000000
+      internalID: -4353799450824323182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125aed54a5cbf9f40800000000000000
+      internalID: 5737511546198598945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_117
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1152
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4f109d322bd560800000000000000
+      internalID: 7339497665536674503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1152
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55df112f18be44c70800000000000000
+      internalID: 8954540902463962453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_119
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1152
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960dc168dc65a92b0800000000000000
+      internalID: -5577049747826618263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf2511b59a87740800000000000000
+      internalID: 5150052382495931183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1024
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a121c4648304930800000000000000
+      internalID: 4125359133246495279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1024
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a92c441faae8590800000000000000
+      internalID: -7670005162147931633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1024
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb53a45af51c63f0800000000000000
+      internalID: -906325260102313033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550794d7a8b61f9c0800000000000000
+      internalID: -3895213960147144619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_125
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1024
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05df9094d873d2b70800000000000000
+      internalID: 8875811520572423504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1024
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4785744f2822988e0800000000000000
+      internalID: -1690782239261501324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_127
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1024
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7346bf550a9248510800000000000000
+      internalID: 1550409940336337975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773a4e8af618ec90800000000000000
+      internalID: -7140431943811057800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 896
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4392870218d6f0260800000000000000
+      internalID: 7065986741730552116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 896
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec1c019ddbbaaaf0800000000000000
+      internalID: -384288257891099412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 896
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e72d6ebc385b2780800000000000000
+      internalID: -8706768436674615320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_132
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397950e76ec37e0c0800000000000000
+      internalID: -4546598338152786029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_133
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 896
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9750fd9d2dcdb90800000000000000
+      internalID: -7215660669762962954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 896
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a8238e785f5f930800000000000000
+      internalID: 4176514193521019538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_135
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 896
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c3af14f056410e0800000000000000
+      internalID: -2300102393473647588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09ba8c8b38c2c720800000000000000
+      internalID: 2865072471047584014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5bf12cc2aae56a0800000000000000
+      internalID: -6458537706390571607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e258c18135c9d5390800000000000000
+      internalID: -7827928696599313106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c482306a0e76e5c0800000000000000
+      internalID: -4186520220565601085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae00ad244e818e10800000000000000
+      internalID: 2198194516607897257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed40175f3f5fabd0800000000000000
+      internalID: -2616768132830704155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf6f9cfb0ff6d40800000000000000
+      internalID: 5579943169853160928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_143
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 768
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4289d2468ca7d980800000000000000
+      internalID: -8514146877873487283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3c5205615b48f90800000000000000
+      internalID: -6952232817314642971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339fdcaa7c8add460800000000000000
+      internalID: 7268150949163432243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831bd6a3434636f20800000000000000
+      internalID: 3414683117958312248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7dfc758ee1a9bb0800000000000000
+      internalID: -4928592858949101626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c279f86be6b652a0800000000000000
+      internalID: -6749005869373361464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a04e88e1a578ac0800000000000000
+      internalID: -3853011869000005001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4103307506a4af0800000000000000
+      internalID: -411410489119075120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_151
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 640
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ed7beb69181d20800000000000000
+      internalID: 3249375082450903137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c82a6e5fa24670800000000000000
+      internalID: 8521566264981244108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_153
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00926bbdff5766070800000000000000
+      internalID: 8099290721635674368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a660d106af7a8ad90800000000000000
+      internalID: -7086229319871297942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 512
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7870a99864bdc1e00800000000000000
+      internalID: 1016928711881656199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c4c413138995d20800000000000000
+      internalID: 3267810341681908869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_157
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 512
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422da97ca05965170800000000000000
+      internalID: 8166878847813997092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_158
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecdcdf1be8306d60800000000000000
+      internalID: 7881361930401406186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_159
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 512
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfffb1d00e2f51a00800000000000000
+      internalID: 726753958996738045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495409e29587bbd0800000000000000
+      internalID: -2614474192644187836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40f33188e055ca10800000000000000
+      internalID: 1929036974928425038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_162
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d3ee12731775a0800000000000000
+      internalID: -6523724154357427236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_163
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4551947ca6d3efbd0800000000000000
+      internalID: -2594568806499543724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b406b95a2c1c1130800000000000000
+      internalID: 3538734375425672374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aad2b67feefd5f80800000000000000
+      internalID: -8116050649009694045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca3ef6713aad4400800000000000000
+      internalID: 310091078784924363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_167
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d74110a39f44b0800000000000000
+      internalID: -5453978308028410440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2363529eaed4b30800000000000000
+      internalID: 4273329908517057275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_169
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59149186abec71c0800000000000000
+      internalID: -4504466426906273443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf25607bcec5010800000000000000
+      internalID: 1179077473293499370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dee1b69804d7220800000000000000
+      internalID: 2485213528330267918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_172
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96bfb82fe1eee630800000000000000
+      internalID: 3958349539802330780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_173
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c274a2e16e015c170800000000000000
+      internalID: 8197977277232465708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a12a5b033029af0800000000000000
+      internalID: -391246709887198622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_175
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 256
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c802903bd2f9290800000000000000
+      internalID: -7881530575899554706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a3451aade46c000800000000000000
+      internalID: 55818746305198600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_177
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a803a4297503f0800000000000000
+      internalID: -935208149348472668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce7fbf6fdd4c2c30800000000000000
+      internalID: 4335926163298811586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_179
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbefad81086679e0800000000000000
+      internalID: -1623996259739112508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30b4c62010c76dc0800000000000000
+      internalID: -3645734197730693059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_181
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d539f1f0f2927f0c0800000000000000
+      internalID: -4542116417085926563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_182
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86534b12bdf6321c0800000000000000
+      internalID: -4529653813250607768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_183
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 128
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf8f2ded299d22f0800000000000000
+      internalID: -995971520047116354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47ac139872a9700800000000000000
+      internalID: 547793774878291116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47697ecf1e608d50800000000000000
+      internalID: 6737506125433366346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_186
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038780e4f2153ca10800000000000000
+      internalID: 1928474329059194928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b48509e2a03d7e0800000000000000
+      internalID: -1742037435755770988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_188
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7abdbeb57c1a6a0800000000000000
+      internalID: -6439646794550106166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_189
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d925f8bcc9457d3b0800000000000000
+      internalID: -5487824588520861027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee84ccffea24ee110800000000000000
+      internalID: 1292043462485231854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_191
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d211619600ca31b90800000000000000
+      internalID: -7272279855510187731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0b2dea2af16e7c6429be261d68d7bdc5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":80.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.10000000149011612},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_0: 4929069551322203312
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_1: -5354999079302183041
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_10: 5836895551833733054
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_100: -3966443469186233355
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_101: -2947638736171460552
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_102: -4394877353014127671
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_103: 3758709065986020657
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_104: -5731592763738204217
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_105: -8317728111277866295
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_106: 1145921560267156260
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_107: 3631956702639474193
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_108: 3708524893758531934
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_109: -6410514374953568273
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_11: 6253585412701785853
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_110: -1548383451820434761
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_111: -3839229086660100179
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_112: -2626013389689778613
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_113: -1970293841462007392
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_114: 1475188414601023729
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_115: -4353799450824323182
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_116: 5737511546198598945
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_117: 7339497665536674503
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_118: 8954540902463962453
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_119: -5577049747826618263
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_12: -2934460859456770773
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_120: 5150052382495931183
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_121: 4125359133246495279
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_122: -7670005162147931633
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_123: -906325260102313033
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_124: -3895213960147144619
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_125: 8875811520572423504
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_126: -1690782239261501324
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_127: 1550409940336337975
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_128: -7140431943811057800
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_129: 7065986741730552116
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_13: -1975970748826062929
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_130: -384288257891099412
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_131: -8706768436674615320
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_132: -4546598338152786029
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_133: -7215660669762962954
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_134: 4176514193521019538
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_135: -2300102393473647588
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_136: 2865072471047584014
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_137: -6458537706390571607
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_138: -7827928696599313106
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_139: -4186520220565601085
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_14: -2809955375888632338
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_140: 2198194516607897257
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_141: -2616768132830704155
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_142: 5579943169853160928
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_143: -8514146877873487283
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_144: -6952232817314642971
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_145: 7268150949163432243
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_146: 3414683117958312248
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_147: -4928592858949101626
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_148: -6749005869373361464
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_149: -3853011869000005001
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_15: -1051262658652572391
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_150: -411410489119075120
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_151: 3249375082450903137
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_152: 8521566264981244108
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_153: 8099290721635674368
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_154: -7086229319871297942
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_155: 1016928711881656199
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_156: 3267810341681908869
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_157: 8166878847813997092
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_158: 7881361930401406186
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_159: 726753958996738045
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_16: -1566786100054192031
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_160: -2614474192644187836
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_161: 1929036974928425038
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_162: -6523724154357427236
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_163: -2594568806499543724
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_164: 3538734375425672374
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_165: -8116050649009694045
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_166: 310091078784924363
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_167: -5453978308028410440
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_168: 4273329908517057275
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_169: -4504466426906273443
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_17: 3250642435091433534
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_170: 1179077473293499370
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_171: 2485213528330267918
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_172: 3958349539802330780
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_173: 8197977277232465708
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_174: -391246709887198622
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_175: -7881530575899554706
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_176: 55818746305198600
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_177: -935208149348472668
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_178: 4335926163298811586
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_179: -1623996259739112508
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_18: 1247636387988748531
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_180: -3645734197730693059
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_181: -4542116417085926563
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_182: -4529653813250607768
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_183: -995971520047116354
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_184: 547793774878291116
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_185: 6737506125433366346
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_186: 1928474329059194928
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_187: -1742037435755770988
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_188: -6439646794550106166
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_189: -5487824588520861027
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_19: 553038681822039056
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_190: 1292043462485231854
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_191: -7272279855510187731
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_2: 4689867807460465363
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_20: -5029483343864252997
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_21: 7565058999784287894
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_22: 4077454008311135252
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_23: 7600125734774393536
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_24: 3346377717890214170
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_25: 4660657466927380737
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_26: 544908176590330062
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_27: 8127808627569359127
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_28: -8170197659879432654
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_29: 6484379464397466158
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_3: -3866804501004652471
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_30: 4345140297592648282
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_31: -5274022439022348638
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_32: -5696190055150575612
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_33: -1107329380501947161
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_34: -2778177432780203021
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_35: 6611028760757924532
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_36: -5136918815641416469
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_37: -5716248312214387180
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_38: 3346114765699585085
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_39: -1263682135540766965
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_4: 8910193376219176428
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_40: 3554602484441675882
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_41: -1123899573805048735
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_42: -8550486334877294408
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_43: -2969105690414854051
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_44: 4429786506853635809
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_45: -9039723577590567960
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_46: -6436252132144380491
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_47: 7690667590240833469
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_48: -5404911649998224565
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_49: -6448787505729314680
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_5: -4926031489255664928
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_50: -4871900389116759326
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_51: 4372162270683327405
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_52: -6072464520120912419
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_53: -3677071312113431177
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_54: -8911749451753004974
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_55: 1307253701524823984
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_56: -433862412966105643
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_57: -1718757717367670818
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_58: 179988790778114790
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_59: 2567644293600713725
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_6: 3956486467356220728
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_60: 8860797504823543387
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_61: -1465684567483754057
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_62: -8552437751736227563
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_63: 5631110280239678455
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_64: -820078109700145563
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_65: 6403396767600554798
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_66: 4317083326339495915
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_67: -6569411343340939755
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_68: 5506427211079188024
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_69: -6497592265132741845
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_7: 1607459537906599989
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_70: 1385355802459594284
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_71: 6182440969381554507
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_72: -8777814376539816761
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_73: -4949448430498370446
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_74: -1904233132934856869
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_75: -7988462689324903210
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_76: -1467627133010190819
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_77: 2219855373065297150
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_78: 6345015466154814470
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_79: 7942139086027383595
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_8: -940373449309373179
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_80: 8316187944227202335
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_81: 6566717297126797089
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_82: 459109254404325025
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_83: -7201631506760021622
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_84: 2895386794923591477
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_85: 1770225152658130485
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_86: 968606678212686467
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_87: 3835672315176620233
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_88: -5946081259126334824
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_89: 3099139861424493096
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_9: -3418939221608709777
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_90: -6178683330036391690
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_91: 8543711219918881242
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_92: -4628709807027321316
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_93: -1341419060744936421
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_94: -4699404033790509552
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_95: 6572636896042497332
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_96: -2079210341512713854
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_97: 3159226762200735778
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_98: 160478248617048088
+      Brian_Hughes_80x128_8_Direzioni-Iddle_Attack_99: 8442252672997595461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
