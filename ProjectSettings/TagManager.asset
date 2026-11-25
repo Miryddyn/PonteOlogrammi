@@ -46,11 +46,11 @@ TagManager:
   - name: Pavimento
     uniqueID: 110164029
     locked: 0
-  - name: Personaggio_P0
-    uniqueID: 763538465
-    locked: 0
   - name: Piattaforma
     uniqueID: 2945146203
+    locked: 0
+  - name: Personaggio_P0
+    uniqueID: 763538465
     locked: 0
   - name: Personaggio_P1
     uniqueID: 2489581403
